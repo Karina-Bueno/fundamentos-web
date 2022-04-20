@@ -29,7 +29,7 @@ h3 {
 
 p {
     color:black;
-    margin: 0;
+    
 }
 
 /* div {
@@ -37,9 +37,7 @@ p {
     padding: 30px;
 } */
 
-div1 {
-    width: 500em;
-    height: 100em;
-    border: 0px;
-    margin: 0px;
+img {
+    width: 100vw;
+    padding: 100vw;
 }
